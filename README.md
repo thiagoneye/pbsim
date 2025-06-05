@@ -1,9 +1,9 @@
 ![GitHub](https://img.shields.io/github/license/thiagoneye/project-particulate_transport_simulator)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/thiagoneye/project-particulate_transport_simulator)
 
-# project-particulate_transport_simulator
+# PbSim
 
-Simulator for analysis of availability and projection of production in an environment for the production of slabs from particulates, considering the equipment:
+Simulator for analysis of availability and projection of production in an environment for the production of slabs from particulates (lead oxide, i.e., Pb oxide), considering the equipment:
 
 - Mills (source of particulate production).
 - Silos (particulate intermediate storage area).
